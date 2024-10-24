@@ -1,0 +1,4 @@
+git clone https://github.com/dimondevceo/glazboga
+cd glazboga
+pip install -r requirements.txt
+python main.py
